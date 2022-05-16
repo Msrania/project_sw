@@ -65,7 +65,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "test": ""echo \"No test specified"},"
+    "test":"echo \"No test specified\""},
   },
   "repository": {
     "type": "git",
